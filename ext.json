@@ -5,9 +5,9 @@
     "area": "themes",
     "version": "1.0.0",
     "description": "Blossom Theme for Standard Notes",
-    "url": "https://github.com/BlossomTheme/Standard-Notes.css",
-    "download_url": "https://github.com/BlossomTheme/Standard-Notes.zip",
-    "latest_url": "https://listed.to/my-plugin-json-link",
+    "url": "https://github.com/BlossomTheme/Standard-Notes/blob/main/src/main.css",
+    "download_url": "https://github.com/BlossomTheme/Standard-Notes/archive/refs/tags/v1.0.0.zip",
+    "latest_url": "https://github.com/BlossomTheme/Standard-Notes/blob/main/my-plugin.json",
     "marketing_url": "https://github.com/BlossomTheme/Standard-Notes",
     "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg",
     "dock_icon": {
