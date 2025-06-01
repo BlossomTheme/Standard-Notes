@@ -7,11 +7,11 @@ metatype: json
     "name": "Blossom Theme",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Blossom Theme for Standard Notes",
     "url": "https://github.com/BlossomTheme/Standard-Notes/blob/main/src/main.css",
-    "download_url": "https://github.com/BlossomTheme/Standard-Notes/archive/refs/tags/v1.0.0.zip",
-    "latest_url": "https://github.com/BlossomTheme/Standard-Notes/blob/main/my-plugin.json",
+    "download_url": "https://github.com/BlossomTheme/Standard-Notes/archive/refs/tags/v1.0.1.zip",
+    "latest_url": "https://listed.to/p/CV1QS76Kha",
     "marketing_url": "https://github.com/BlossomTheme/Standard-Notes",
     "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg"
 }
