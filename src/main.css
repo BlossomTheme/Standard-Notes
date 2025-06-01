@@ -1,6 +1,6 @@
 :root {
-  --background: #10111b;
-  --secondary-background: #090A0F;
+  --background: #090A0F;
+  --secondary-background: #10111b;
   --current-line: #403a72;
   --foreground: #f8f8f2;
   --foreground02: #ff058d;
@@ -12,9 +12,9 @@
   --purple: #9200ff;
   --cyan: #34e2e2;
   --yellow: #fcdd42;
-  --bar-color: rgb(23, 23, 23);
+  --bar-color: rgb(16, 17, 27);
   --darker-background: rgb(9, 10, 15);
-  --darker-background-border: rgb(146, 0, 255);
+  --darker-background-border: rgb(16, 17, 27);
 
   --sn-stylekit-accessory-tint-color-1: var(--purple);
   --sn-stylekit-accessory-tint-color-2: var(--pink);
@@ -29,7 +29,7 @@
   --sn-component-outer-border-color: var(--comment);
   --sn-component-inner-border-color: var(--foreground02);
   --sn-stylekit-shadow-color: var(--comment);
-  --sn-stylekit-info-color: var(--pink);
+  --sn-stylekit-info-color: var(--foreground02);
   --sn-stylekit-info-contrast-color: var(--background);
   --sn-stylekit-neutral-color: var(--purple);
   --sn-stylekit-neutral-contrast-color: var(--foreground);
@@ -72,7 +72,7 @@
 }
 
 .sn-component .sk-panel .sk-panel-footer .left {
-  color: var(--foreground);
+  color: var(--current-line);
 }
 
 #plus-editor label kbd {
