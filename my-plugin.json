@@ -1,0 +1,17 @@
+---
+metatype: json
+---
+
+{
+    "identifier": "blossomtheme.blossom-standard-notes",
+    "name": "Blossom Theme",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.0",
+    "description": "Blossom Theme for Standard Notes",
+    "url": "https://domain.org/link-to-hosted-plugin",
+    "download_url": "https://github.com/sn-plugins/advanced-markdown-editor/archive/1.0.184.zip",
+    "latest_url": "https://listed.to/my-plugin-json-link",
+    "marketing_url": "https://github.com/BlossomTheme/Standard-Notes",
+    "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg"
+}

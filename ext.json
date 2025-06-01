@@ -1,0 +1,19 @@
+{
+    "identifier": "blossomtheme.blossom-standard-notes",
+    "name": "Blossom Theme",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.0",
+    "description": "Blossom Theme for Standard Notes",
+    "url": "https://github.com/BlossomTheme/Standard-Notes.css",
+    "download_url": "https://github.com/BlossomTheme/Standard-Notes.zip",
+    "latest_url": "https://listed.to/my-plugin-json-link",
+    "marketing_url": "https://github.com/BlossomTheme/Standard-Notes",
+    "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#10111b",
+        "foreground_color": "#ff058d",
+        "border_color": "#ff058d"
+    }
+}

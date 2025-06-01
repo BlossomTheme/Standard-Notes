@@ -1,0 +1,12 @@
+{
+  "name": "Blossom Theme",
+  "version": "1.0.0",
+  "main": "src/main.css",
+  "sn": {
+    "main": "src/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BlosssomTheme/Standard-Notes.git"
+  }
+}
